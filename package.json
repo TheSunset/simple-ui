@@ -1,0 +1,25 @@
+{
+  "name": "@ximu/simple-ui",
+  "version": "1.0.0",
+  "description": "A Component Library for Vue.js",
+  "main": "index.js",
+  "files": [
+    "lib",
+    "packages",
+    "index.js",
+    "package.json"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "components"
+  ],
+  "author": "snow_sunset",
+  "license": "ISC",
+  "dependencies": {}
+}
