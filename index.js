@@ -1,6 +1,8 @@
-import Button from './packages/button/index'
+import Button from './packages/button/index';
+import Segment from './packages/segment/index';
 const components = [
   Button,
+  Segment
 ];
 const install = function (Vue, opts = {}) {
   // locale.use(opts.locale);
